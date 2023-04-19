@@ -1,8 +1,4 @@
 
-### Hi there 👋
-
-
-📫 How to reach me:
 <h1 align="center">Hi 👋, I'm oussama</h1>
 <h3 align="center">Full Stack Developer with 2+ years of experience in different technologies and frameworks at both the Front-end and Back-end levels and managing all the aspects of a project</h3>
 
