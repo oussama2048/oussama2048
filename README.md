@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer with 2+ years of experience in different technologies and frameworks at both the Front-end and Back-end levels and managing all the aspects of a project</h3>
 <br>
 
-<h3 align="left">📫 How to reach me : **oussamasaad0001@gmail.com**</h3>
+<h3 align="left">📫 How to reach me : oussamasaad0001@gmail.com </h3>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
